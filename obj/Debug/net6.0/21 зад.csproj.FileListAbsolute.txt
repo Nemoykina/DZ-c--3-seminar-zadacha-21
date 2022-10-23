@@ -1,0 +1,15 @@
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.csproj.AssemblyReference.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.AssemblyInfoInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.AssemblyInfo.cs
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.csproj.CoreCompileInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\bin\Debug\net6.0\21 зад.exe
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\bin\Debug\net6.0\21 зад.deps.json
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\bin\Debug\net6.0\21 зад.runtimeconfig.json
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\bin\Debug\net6.0\21 зад.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\bin\Debug\net6.0\21 зад.pdb
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\refint\21 зад.dll
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.pdb
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\21 зад.genruntimeconfig.cache
+D:\Users\Ma3rs\Desktop\test folder\с# 3 семинар\21 зад\obj\Debug\net6.0\ref\21 зад.dll

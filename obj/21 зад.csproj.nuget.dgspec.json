@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Ma3rs\\Desktop\\test folder\\с# 3 семинар\\21 зад\\21 зад.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Ma3rs\\Desktop\\test folder\\с# 3 семинар\\21 зад\\21 зад.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Ma3rs\\Desktop\\test folder\\с# 3 семинар\\21 зад\\21 зад.csproj",
+        "projectName": "21 зад",
+        "projectPath": "D:\\Users\\Ma3rs\\Desktop\\test folder\\с# 3 семинар\\21 зад\\21 зад.csproj",
+        "packagesPath": "D:\\Users\\Ma3rs\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Ma3rs\\Desktop\\test folder\\с# 3 семинар\\21 зад\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\Ma3rs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
